@@ -1,2 +1,11 @@
-# Jeu de casse-brique
-Ce jeu a été réalisé en html, css et javascript
+# Casse-brique
+
+This game was made in canvas, html css javascript.
+
+## Author
+
+Scavezzoni Méloé
+
+## Game
+
+You can see it here : https://meloscav.github.io/Jeu-casse-briques/
